@@ -35,8 +35,3 @@ This project is a console-based simulation of a simple board game, implemented u
 - Player position tracking
 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/board-game-oop.git
-   cd board-game-oop
-
